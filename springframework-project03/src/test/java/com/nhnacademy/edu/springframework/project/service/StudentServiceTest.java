@@ -1,12 +1,8 @@
 package com.nhnacademy.edu.springframework.project.service;
 
-import com.nhnacademy.edu.springframework.project.repository.StudentService;
 import org.junit.jupiter.api.Test;
 
-import com.nhnacademy.edu.springframework.project.repository.CsvScores;
-import com.nhnacademy.edu.springframework.project.repository.CsvStudents;
 import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
 
 import java.util.Collection;
 
